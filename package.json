@@ -4,13 +4,7 @@
   "description": "A sample project to test CI/CD",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
-  },
-  "dependencies": {
-    "supertest": "^6.0.1"
-  },
-  "devDependencies": {
-    "jest": "^28.0.0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
